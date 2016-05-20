@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "HeaderInsetTableView"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A category fix UITableView`s headerView positon offset when you set contentInset property."
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                   A category fix UITableView`s headerView positon offset when you set contentInset property.
+                   A category of UITableView to fix it`s headerView positon offset when you set contentInset property.
                    DESC
   s.homepage     = "https://github.com/SinCheung/HeaderInsetTableView"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
